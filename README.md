@@ -2,9 +2,9 @@
 
 ## Getting started
 
-- Open https://github.ibm.com/CODAIT/watson-studio-gallery-dax-project-template
-- Click **Use this template** and create a new dataset project repository in https://github.ibm.com/CODAIT/ naming it `watson-studio-gallery-XXX-project`  replacing `XXX` with the data set short name.
-- Create an issue in https://github.ibm.com/CODAIT/DAX-Datasets/issues/new/choose tracking development/publication progress
+- Open https://github.com/CODAIT/watson-studio-gallery-dax-project-template
+- Click **Use this template** and create a new dataset project repository in https://github.com/CODAIT/ naming it `watson-studio-gallery-XXX-project`  replacing `XXX` with the data set short name.
+- Create an issue in https://github.com/CODAIT/DAX-Datasets/issues/new/choose tracking development/publication progress
 - Add a link to the newly created project in this [status document](https://github.ibm.com/CODAIT/DAX-Datasets/blob/master/OWNERS.md).
 - Review the content of this sample project https://dataplatform.cloud.ibm.com/exchange/public/entry/view/a7432f0c29c5bda2fb42749f363bd9ff to familiarize yourself with the typical content of a DAX project:
   - Description
