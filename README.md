@@ -36,7 +36,11 @@ This is a one-time setup of your "development" environment. (Most notebooks will
 1. Add the extracted (raw) data set files.   
    - Click **Assets**.
    - Click **Add to project** > **Data** and add each raw data set file (e.g. `.csv`) to the project.
-
+1. Try to export the data assets. If an error is raised because the archive is larger than 500MB, use the `Part 0 - Import Data.ipynb` notebook. Customize the notebook as follows:
+   - Change the `dataset_download_url` 
+   - Change the `data_path_name`. 
+   - In the last code cell, customize the `if file.suffix != '.tgz':` filter as needed if the extracted archive contains files that should not be added as data assets.
+   
 ## Notebook development instructions
 
 Review the notebook development instructions in [`/notebooks`](/notebooks).
