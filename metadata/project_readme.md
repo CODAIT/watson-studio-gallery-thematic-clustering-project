@@ -16,7 +16,7 @@ This project includes IBM Debater® Thematic Clustering of Sentences dataset fro
 Open the **Assets** tab to access and run the following notebooks in order:
 
 - `Part 1 - Data Exploration & Visualization`: This notebook loads, clean, explore and visualize the data files in the project.
-- `Part 2 - Model Development`:  This notebook takes text and captures sentiment on the entire text as well as for each sentence in the text.
+- `Part 2 - Model Development`:  This notebook takes sentences and clusters them into groups based on the topic similarity between sentences.
 
 You can review the completed notebooks [here]()
 
