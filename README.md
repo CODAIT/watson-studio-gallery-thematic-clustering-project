@@ -1,4 +1,4 @@
-# Watson Studio Gallery project for the [TODO-add-dataset-name] data set
+# Watson Studio Gallery project for the IBM Debater® Thematic Clustering of Sentences data set
 
 ## Getting started
 
