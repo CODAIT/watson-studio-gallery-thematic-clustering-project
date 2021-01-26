@@ -1,24 +1,26 @@
-This project includes [TODO-customize] The notebooks teach the user to  [TODO-customize]. This sample project contains [TODO-customize] notebooks and [TODO-customize] CSV file. Please run the notebooks in sequential order of their part numbers using a Python 3.6 runtime.
+This project includes IBM Debater® Thematic Clustering of Sentences dataset from the Data Asset Exchange and supporting notebooks. The notebooks teach the user how to read, clean and visualize the data, how to save the cleaned dataset into watson studio project, and how to develop model on sentiment composition lexicons dataset. This sample project contains two notebooks and one related data files. Please run the notebooks in sequential order of their part numbers using a Python 3.7 runtime.
+
 
 ## Resources:
 
-- Dataset homepage: https://developer.ibm.com/exchanges/data/all/TODO-add-slug-name/
-- Dataset download link: https://dax-cdn.cdn.appdomain.cloud/[TODO-add-cos-path-and-filename].tar.gz
+- Dataset homepage: https://developer.ibm.com/exchanges/data/all/thematic-clustering-of-sentences/
+- Dataset download link: https://dax-cdn.cdn.appdomain.cloud/dax-thematic-clustering-of-sentences/1.0.2/thematic-clustering-of-sentences.tar.gz
 
 ## Data assets 
 
-- `[TODO-add-dataset-file-names]`: the core dataset as obtained from [TODO-customize].
+- `dataset.csv`: The dataset contains 692 articles from Wikipedia, where the number of sections(clusters) in each article ranges from 5 to 12, and the number of sentences per article ranges from 17 to 1614.
+
 
 ## Notebooks
 
 Open the **Assets** tab to access and run the following notebooks in order:
 
-- `Part 1 - [TODO-add-notebook-name-1]`:  [TODO-add-notebook-description]
-- `Part 2 - [TODO-add-notebook-name-2]`:  [TODO-add-notebook-description]
+- `Part 1 - Data Exploration & Visualization`: This notebook loads, clean, explore and visualize the data files in the project.
+- `Part 2 - Model Development`:  This notebook takes text and captures sentiment on the entire text as well as for each sentence in the text.
 
-You can review the completed notebooks [here](https://dax-nb-preview-prod.s3.us.cloud-object-storage.appdomain.cloud/preview_notebooks.html?dataset=[TODO-add-slug-name])
+You can review the completed notebooks [here]()
 
 ## Licenses
 
-- Dataset: [[TODO-add-ds-license-name]]([TODO-add-ds-license-url])
+- Dataset: [[CC-BY-SA 3.0]](https://creativecommons.org/licenses/by-sa/3.0/)
 - Notebooks:  [MIT](https://opensource.org/licenses/MIT)

@@ -1,1 +1,1 @@
-[TODO-add-a-meaningful-project-description-do-not-use-markdown]
+This project includes IBM Debater® Thematic Clustering of Sentences dataset from the Data Asset Exchange and supporting notebooks. The notebooks teach the user how to read, clean and visualize the data, how to save the cleaned dataset into watson studio project, and how to develop model on sentiment composition lexicons dataset. This sample project contains two notebooks and one related data files. Please run the notebooks in sequential order of their part numbers using a Python 3.7 runtime.
