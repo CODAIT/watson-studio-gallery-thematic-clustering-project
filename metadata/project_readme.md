@@ -18,7 +18,7 @@ Open the **Assets** tab to access and run the following notebooks in order:
 - `Part 1 - Data Exploration & Visualization`: This notebook loads, clean, explore and visualize the data files in the project.
 - `Part 2 - Model Development`:  This notebook takes sentences and clusters them into groups based on the topic similarity between sentences.
 
-You can review the completed notebooks [here]()
+You can review the completed notebooks [here](https://dataplatform.cloud.ibm.com/projects/b15cf3d3-d97e-4b08-93bc-74638835c2b3?context=cpdaas)
 
 ## Licenses
 
