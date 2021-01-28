@@ -1,5 +1,7 @@
 # Watson Studio Gallery project for the IBM Debater® Thematic Clustering of Sentences data set
 
+DAX data set URL: https://developer.ibm.com/exchanges/data/all/thematic-clustering-of-sentences/
+
 ## Getting started
 
 - Open https://github.com/CODAIT/watson-studio-gallery-dax-project-template
