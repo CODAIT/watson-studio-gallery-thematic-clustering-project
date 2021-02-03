@@ -1,4 +1,5 @@
-This project includes IBM Debater® Thematic Clustering of Sentences dataset from the Data Asset Exchange and supporting notebooks. The notebooks teach the user how to read, clean and visualize the data, how to save the cleaned dataset into a Watson Studio project, and how to develop a clustering model using the dataset. This sample project contains two notebooks and one related data files. Please run the notebooks in sequential order of their part numbers using a Python 3.7 runtime.
+This project includes the IBM Debater® Thematic Clustering of Sentences dataset from the Data Asset Exchange and supporting notebooks. The notebooks teach the user how to read, clean and visualize the data, how to save the cleaned dataset into a Watson Studio project, and how to develop a clustering model using the dataset. This sample project contains two notebooks and one related data files. Please run the notebooks in sequential order of their part numbers using a Python 3.7 runtime.
+
 
 
 ## Resources:
@@ -18,7 +19,7 @@ Open the **Assets** tab to access and run the following notebooks in order:
 - `Part 1 - Data Exploration & Visualization`: This notebook loads, clean, explore and visualize the data files in the project.
 - `Part 2 - Model Development`:  This notebook takes sentences and clusters them into groups based on the topic similarity between sentences.
 
-You can review the completed notebooks [here]()
+You can review the completed notebooks [here](https://dataplatform.cloud.ibm.com/projects/b15cf3d3-d97e-4b08-93bc-74638835c2b3?context=cpdaas)
 
 ## Licenses
 
